@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "dup1.html",
+    "href": "dup1.html",
+    "title": "Website",
+    "section": "",
+    "text": "duplicate file 1\ncopied from geeks for geeks\nR Programming Language – Introduction\nThe R Language stands out as a powerful tool in the modern era of statistical computing and data analysis. Widely embraced by statisticians, data scientists, and researchers, the R Language offers an extensive suite of packages and libraries tailored for data manipulation, statistical modeling, and visualization. In this article, we explore the features, benefits, and applications of the R Programming Language, shedding light on why it has become an indispensable asset for data-driven professionals across various industries.\nR programming language is an implementation of the S programming language. It also combines with lexical scoping semantics inspired by Scheme. Moreover, the project was conceived in 1992, with an initial version released in 1995 and a stable beta version in 2000."
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Website",
+    "section": "",
+    "text": "Introduction\nHello everyone, hope you all are doing well . I am currently working on my master’s degree in data analytics engineering. I’ve recently graduated in May majoring in computer science and business systems from VNRVJIET, Hyderabad, India . I intend to learn data mining, data ethics, visualisation techniques and cloud technologies like AWS and Azure through data analytics course so that I can build my portfolio showcasing my work based on data analytics and working on real world problems and projects. During my undergraduate studies, I learned programming languages such as C, C++, Python, and R. I also completed projects including developing a chatbot for healthcare services for diabetics and creating an automated human recognition system. I have even volunteered for my university cultural and technical fests. I’d like to describe myself into 3 adjectives, friendly, positive thinker and enthusiast."
+  },
+  {
+    "objectID": "dup2.html",
+    "href": "dup2.html",
+    "title": "Website",
+    "section": "",
+    "text": "duplicate file 2 copied from IBM\nThe main difference between R and Python: Data analysis goals\nThe main distinction between the two languages is in their approach to data science. Both open source programming languages are supported by large communities, continuously extending their libraries and tools. But while R is mainly used for statistical analysis, Python provides a more general approach to data wrangling.\nPython is a multi-purpose language, much like C++ and Java, with a readable syntax that’s easy to learn. Programmers use Python to delve into data analysis or use machine learning in scalable production environments. For example, you might use Python to build face recognition into your mobile API or for developing a machine learning application.\nR, on the other hand, is built by statisticians and leans heavily into statistical models and specialized analytics. Data scientists use R for deep statistical analysis, supported by just a few lines of code and beautiful data visualizations. For example, you might use R for customer behavior analysis or genomics research."
+  }
+]
